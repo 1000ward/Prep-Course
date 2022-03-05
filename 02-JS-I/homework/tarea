@@ -1,0 +1,15 @@
+Variables
+Son etiquetas, como canjoncitos de un armario en el cual podemos guardar o asignar numeros, letras u otros elementos.
+
+Strings
+son cadenas de datos, un conjunto de variables que se unen.
+
+Funciones (argumentos, return)
+Las funciones son formas de automatizar acciones que suelen ser repetitivas y nos permiten de esta manera reducir codigo,
+llevan argumentos que son justamente variables que se utilizaran en la funcion y la funcion return que nos devuelve un determinado valor segun la accion que se haga.
+
+Declaraciones if
+son instrucciones condicionales, sirve para dar una respuesta a una determinada accion programada de tal manera que debe cumplirse una condicion.
+
+Valores booleanos (true, false)
+Son estados que se le puede asignar a una variable donde true = 1 logico y false = 0 logico.
