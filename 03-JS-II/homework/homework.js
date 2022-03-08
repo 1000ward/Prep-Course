@@ -18,7 +18,7 @@ function mayoriaDeEdad(edad) {
   if(edad >= 18) {
     return "Allowed";
   }
-  return "Not Allowed";
+  return "Not allowed";
 }
   
 function conection(status) {
@@ -86,9 +86,9 @@ function esDiezOCinco(numero) {
   // Tu código:
   if(numero === 10 || numero ===5)
   {
-    return "true";
+    return true;
   }
-  return "false";
+  return false;
 }
 
 function estaEnRango(numero) {
