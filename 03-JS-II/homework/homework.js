@@ -97,9 +97,9 @@ function estaEnRango(numero) {
   // Tu código:
   if(numero < 50 && numero >20 )
   {
-    return "true";
+    return true;
   }
-  return "false";
+  return false;
 }
 
 function esEntero(numero) {
@@ -113,9 +113,9 @@ function esEntero(numero) {
 
   if( numero %1 === 0  )
   {
-    return "true";
+    return true;
   }
-  return "false";
+  return false;
 }
 
 function fizzBuzz(numero) {
