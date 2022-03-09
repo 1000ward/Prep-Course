@@ -27,7 +27,6 @@ function agregarPropiedad(objeto, property) {
   return objeto;
 
   }
-}
 
 function invocarMetodo(objeto, metodo) {
   // "metodo" es una cadena que contiene el nombre de un método (funcion) en el objeto
