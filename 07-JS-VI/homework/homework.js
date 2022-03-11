@@ -57,7 +57,7 @@ function filter(array) {
   //Tu código:
   var nuevo = array.map(function(ellos){
     if(ellos.charAt(0) === 'a'){
-      nuevo =array.push(ellos);
+      return ellos;
     }
     return nuevo;
   });
