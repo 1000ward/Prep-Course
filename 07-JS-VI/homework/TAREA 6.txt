@@ -1,0 +1,5 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Funciones Callback
+
+Son funciones que permiten llamar una funcion dentro de otra funcion es decir convertir una funcion en un argumento, de manera que se pueda utilizar de manera mas rapida y ahorrar codigo.
