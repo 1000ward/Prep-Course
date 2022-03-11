@@ -59,6 +59,7 @@ function filter(array) {
     if(ellos.charAt(0) === 'a'){
       return ellos;
     }
+    return;
   });
   return nuevo;
 }
